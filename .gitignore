@@ -1,0 +1,9 @@
+.idea/
+*.iws
+*.iml
+*.ipr
+target/
+*.DS_Store
+.jqwik-database
+.project
+.settings/

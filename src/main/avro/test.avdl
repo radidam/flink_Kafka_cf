@@ -1,0 +1,14 @@
+@namespace("com.example")
+protocol InternalSchemas {
+
+
+  record Display {
+
+      union {null, string}  str1 = null;
+      union {null, string}  str12 = null;
+
+
+  }
+
+
+}
