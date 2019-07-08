@@ -7,3 +7,5 @@ target/
 .jqwik-database
 .project
 .settings/
+Docker/full-stack/
+Docker/connectors
